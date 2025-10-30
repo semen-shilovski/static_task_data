@@ -39,5 +39,14 @@
     "id": "b224222e-6ded-4965-8c32-76606339bb95",
     "createdAt": "2025-10-30T15:57:21.966Z",
     "updatedAt": "2025-10-30T15:57:21.966Z"
+  },
+  {
+    "status": "todo",
+    "title": "task3",
+    "assigneeId": "3",
+    "priority": "medium",
+    "id": "ede73c86-a2f6-4697-aa78-d9cb03522314",
+    "createdAt": "2025-10-30T16:00:01.112Z",
+    "updatedAt": "2025-10-30T16:00:01.112Z"
   }
 ]
