@@ -14,5 +14,13 @@
     "status": "запланировано",
     "priority": "medium",
     "due": "2025-11-12"
+  },
+    {
+    "id": 3,
+    "title": "Тест",
+    "assignee": "Игорь",
+    "status": "выполнено",
+    "priority": "medium",
+    "due": "2025-11-12"
   }
 ]
