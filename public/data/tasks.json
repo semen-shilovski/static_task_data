@@ -2,10 +2,11 @@
   {
     "id": 1,
     "title": "Подготовить квартальный отчёт",
-    "assignee": "Анна",
-    "status": "в работе",
+    "status": "in_progress",
     "priority": "high",
-    "due": "2025-11-05"
+    "due": "2025-11-05",
+    "assigneeId": "4",
+    "updatedAt": "2025-10-30T15:23:30.111Z"
   },
   {
     "id": 2,
