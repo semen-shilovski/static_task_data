@@ -25,5 +25,15 @@
     "priority": "medium",
     "due": "2025-11-12",
     "updatedAt": "2025-10-30T15:12:10.028Z"
+  },
+  {
+    "status": "done",
+    "title": "new task",
+    "assigneeId": "2",
+    "priority": "high",
+    "due": "2222-12-12",
+    "id": "39692488-6f94-4994-80f2-a432554a8e25",
+    "createdAt": "2025-10-30T15:29:58.546Z",
+    "updatedAt": "2025-10-30T15:29:58.546Z"
   }
 ]
