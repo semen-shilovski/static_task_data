@@ -15,12 +15,13 @@
     "priority": "medium",
     "due": "2025-11-12"
   },
-    {
+  {
     "id": 3,
     "title": "Тест",
     "assignee": "Игорь",
-    "status": "выполнено",
+    "status": "in_progress",
     "priority": "medium",
-    "due": "2025-11-12"
+    "due": "2025-11-12",
+    "updatedAt": "2025-10-30T15:12:10.028Z"
   }
 ]
