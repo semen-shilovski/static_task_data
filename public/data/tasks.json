@@ -1,2 +1,12 @@
 [
+  {
+    "status": "todo",
+    "title": "New task",
+    "assigneeId": "1",
+    "priority": "high",
+    "due": "2025-10-12",
+    "id": "90fa020d-7ed3-460f-87a1-20b2d09c6cb3",
+    "createdAt": "2025-10-30T15:34:54.787Z",
+    "updatedAt": "2025-10-30T15:34:54.787Z"
+  }
 ]
