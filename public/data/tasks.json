@@ -8,5 +8,16 @@
     "id": "90fa020d-7ed3-460f-87a1-20b2d09c6cb3",
     "createdAt": "2025-10-30T15:34:54.787Z",
     "updatedAt": "2025-10-30T15:39:17.101Z"
+  },
+  {
+    "status": "done",
+    "title": "New task 2",
+    "assigneeId": "1",
+    "priority": "medium",
+    "due": "0002-02-22",
+    "description": "test",
+    "id": "f14c2449-3d5f-4b94-94b1-c3915904534f",
+    "createdAt": "2025-10-30T15:41:13.992Z",
+    "updatedAt": "2025-10-30T15:41:13.992Z"
   }
 ]
