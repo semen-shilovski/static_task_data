@@ -48,5 +48,106 @@
     "id": "ede73c86-a2f6-4697-aa78-d9cb03522314",
     "createdAt": "2025-10-30T16:00:01.112Z",
     "updatedAt": "2025-10-30T16:00:01.112Z"
+  },
+
+  // ===== неделя -1 (около 2025-10-23) =====
+  {
+    "status": "done",
+    "title": "Подготовить демо для стейкхолдеров",
+    "assigneeId": "2",
+    "priority": "high",
+    "due": "2025-10-24",
+    "id": "b3a3b8b8-0b0f-4e2a-b8c6-2e5f4d5f2a11",
+    "createdAt": "2025-10-23T10:15:00Z",
+    "updatedAt": "2025-10-24T16:30:00Z"
+  },
+  {
+    "status": "in_progress",
+    "title": "Сбор требований от отдела продаж",
+    "assigneeId": "3",
+    "priority": "medium",
+    "id": "7b3e5e1c-7d0b-4c67-8f6e-3f9c7c1a2e22",
+    "createdAt": "2025-10-22T12:00:00Z",
+    "updatedAt": "2025-10-23T09:00:00Z"
+  },
+
+  // ===== неделя -2 (около 2025-10-16) =====
+  {
+    "status": "todo",
+    "title": "Спецификация API v2",
+    "assigneeId": "4",
+    "priority": "medium",
+    "id": "c1ad2f93-2e6c-4b8d-9d22-9d3b8e7d1f33",
+    "createdAt": "2025-10-16T09:10:00Z",
+    "updatedAt": "2025-10-16T09:10:00Z"
+  },
+  {
+    "status": "done",
+    "title": "Настроить CI для ветки release",
+    "assigneeId": "2",
+    "priority": "medium",
+    "id": "d0c3f4e2-6f74-47f5-9c1c-4c7e2abf4f44",
+    "createdAt": "2025-10-15T14:30:00Z",
+    "updatedAt": "2025-10-17T11:45:00Z"
+  },
+
+  // ===== неделя -3 (около 2025-10-09) =====
+  {
+    "status": "in_progress",
+    "title": "Проработка макетов дэшборда",
+    "assigneeId": "3",
+    "priority": "low",
+    "id": "e5d1a7c9-99c1-4a5e-8a5a-33a9b3ef5a55",
+    "createdAt": "2025-10-09T08:20:00Z",
+    "updatedAt": "2025-10-10T17:00:00Z"
+  },
+  {
+    "status": "done",
+    "title": "Миграция на новую схему БД",
+    "assigneeId": "4",
+    "priority": "high",
+    "id": "a7c4d2b1-6f5e-4c3b-9c1e-0f2e1d3c6b66",
+    "createdAt": "2025-10-08T13:00:00Z",
+    "updatedAt": "2025-10-11T10:30:00Z"
+  },
+
+  // ===== неделя -4 (около 2025-10-02) =====
+  {
+    "status": "todo",
+    "title": "Техдолг: рефакторинг модуля нотификаций",
+    "assigneeId": "2",
+    "priority": "medium",
+    "id": "f2e1c3a4-b5d6-47e8-9a0b-1122a3344c77",
+    "createdAt": "2025-10-02T09:00:00Z",
+    "updatedAt": "2025-10-02T09:00:00Z"
+  },
+  {
+    "status": "done",
+    "title": "Автотесты для задач по приёмке",
+    "assigneeId": "3",
+    "priority": "medium",
+    "id": "09b7e5fa-4b2a-4d5a-8f54-2e9b9f1c7d88",
+    "createdAt": "2025-10-01T11:15:00Z",
+    "updatedAt": "2025-10-03T15:45:00Z"
+  },
+
+  // ===== неделя -5 (около 2025-09-25) =====
+  {
+    "status": "done",
+    "title": "Настроить мониторинг продакшена",
+    "assigneeId": "4",
+    "priority": "high",
+    "id": "1180b2e0-7f0e-46e2-84c1-1b2c3d4e5f99",
+    "createdAt": "2025-09-25T10:00:00Z",
+    "updatedAt": "2025-09-26T18:00:00Z"
+  },
+  {
+    "status": "in_progress",
+    "title": "Подготовка KPI на квартал",
+    "assigneeId": "2",
+    "priority": "low",
+    "id": "22c3d5e7-8f9a-4a1e-9b0c-0d1e2f3a4b00",
+    "createdAt": "2025-09-24T09:30:00Z",
+    "updatedAt": "2025-09-25T12:00:00Z"
   }
 ]
