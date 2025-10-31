@@ -1,55 +1,5 @@
 [
   {
-    "status": "todo",
-    "title": "New task",
-    "assigneeId": "2",
-    "priority": "medium",
-    "due": "2025-10-12",
-    "id": "90fa020d-7ed3-460f-87a1-20b2d09c6cb3",
-    "createdAt": "2025-10-30T15:34:54.787Z",
-    "updatedAt": "2025-10-30T15:39:17.101Z"
-  },
-  {
-    "status": "done",
-    "title": "New task 2",
-    "assigneeId": "3",
-    "priority": "medium",
-    "due": "0002-02-22",
-    "description": "test",
-    "id": "f14c2449-3d5f-4b94-94b1-c3915904534f",
-    "createdAt": "2025-10-30T15:41:13.992Z",
-    "updatedAt": "2025-10-30T15:57:40.921Z"
-  },
-  {
-    "status": "in_progress",
-    "title": "task 3",
-    "assigneeId": "3",
-    "priority": "medium",
-    "due": "1111-11-11",
-    "id": "0c6f6d70-b61d-4c15-979e-4780e5865987",
-    "createdAt": "2025-10-30T15:48:50.359Z",
-    "updatedAt": "2025-10-30T16:04:32.783Z"
-  },
-  {
-    "status": "in_progress",
-    "title": "task333",
-    "assigneeId": "4",
-    "priority": "medium",
-    "due": "1111-11-11",
-    "id": "b224222e-6ded-4965-8c32-76606339bb95",
-    "createdAt": "2025-10-30T15:57:21.966Z",
-    "updatedAt": "2025-10-30T15:57:21.966Z"
-  },
-  {
-    "status": "todo",
-    "title": "task3",
-    "assigneeId": "3",
-    "priority": "medium",
-    "id": "ede73c86-a2f6-4697-aa78-d9cb03522314",
-    "createdAt": "2025-10-30T16:00:01.112Z",
-    "updatedAt": "2025-10-30T16:00:01.112Z"
-  },
-  {
     "status": "done",
     "title": "Подготовить демо для стейкхолдеров",
     "assigneeId": "2",
@@ -139,23 +89,5 @@
     "id": "22c3d5e7-8f9a-4a1e-9b0c-0d1e2f3a4b00",
     "createdAt": "2025-09-24T09:30:00Z",
     "updatedAt": "2025-10-30T16:21:00.134Z"
-  },
-  {
-    "status": "todo",
-    "title": "new",
-    "assigneeId": "3",
-    "priority": "medium",
-    "id": "5c55fb3a-18d8-4d5b-8adc-1da681aeeef8",
-    "createdAt": "2025-10-30T16:19:30.114Z",
-    "updatedAt": "2025-10-30T16:19:30.114Z"
-  },
-  {
-    "status": "todo",
-    "title": "task test1",
-    "assigneeId": "2",
-    "priority": "medium",
-    "id": "28f4bce5-253b-4568-a00c-53a246e8ddb0",
-    "createdAt": "2025-10-30T16:33:22.342Z",
-    "updatedAt": "2025-10-30T16:33:22.342Z"
   }
 ]
