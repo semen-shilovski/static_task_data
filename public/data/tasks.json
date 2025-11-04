@@ -89,5 +89,14 @@
     "id": "22c3d5e7-8f9a-4a1e-9b0c-0d1e2f3a4b00",
     "createdAt": "2025-09-24T09:30:00Z",
     "updatedAt": "2025-10-30T16:21:00.134Z"
+  },
+  {
+    "status": "in_progress",
+    "title": "new",
+    "assigneeId": "saakk",
+    "priority": "medium",
+    "id": "d8e6cfa1-e891-4f66-89ca-a6ceed164033",
+    "createdAt": "2025-11-04T20:33:32.269Z",
+    "updatedAt": "2025-11-04T20:33:32.269Z"
   }
 ]
