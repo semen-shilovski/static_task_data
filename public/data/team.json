@@ -1,22 +1,20 @@
 [
   {
-    "id": 1,
+    "id": "anna",
     "name": "Анна",
-    "role": "Руководитель проектов"
+    "role": "Руководитель проектов",
+    "email": "anna@example.com",
+    "avatarUrl": "https://example.com/avatars/anna.png",
+    "createdAt": "2025-11-01T12:00:00.000Z",
+    "updatedAt": "2025-11-01T12:00:00.000Z"
   },
   {
-    "id": 2,
+    "id": "igor",
     "name": "Игорь",
-    "role": "Финансовый аналитик"
-  },
-  {
-    "id": 3,
-    "name": "Полина",
-    "role": "BI-инженер"
-  },
-  {
-    "id": 4,
-    "name": "Михаил",
-    "role": "Менеджер по продукту"
+    "role": "Финансовый аналитик",
+    "email": "igor@example.com",
+    "avatarUrl": "",
+    "createdAt": "2025-11-01T12:00:00.000Z",
+    "updatedAt": "2025-11-01T12:00:00.000Z"
   }
 ]
