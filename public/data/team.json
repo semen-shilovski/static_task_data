@@ -16,5 +16,14 @@
     "avatarUrl": "",
     "createdAt": "2025-11-01T12:00:00.000Z",
     "updatedAt": "2025-11-01T12:00:00.000Z"
+  },
+  {
+    "id": "anna222",
+    "name": "Анна",
+    "role": "Руководитель проектов",
+    "email": "anna@example.com",
+    "avatarUrl": "",
+    "createdAt": "2025-11-04T20:32:08.108Z",
+    "updatedAt": "2025-11-04T20:32:08.108Z"
   }
 ]
