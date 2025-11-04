@@ -21,11 +21,11 @@
   {
     "status": "todo",
     "title": "Спецификация API v2",
-    "assigneeId": "4",
+    "assigneeId": "igor",
     "priority": "medium",
     "id": "c1ad2f93-2e6c-4b8d-9d22-9d3b8e7d1f33",
     "createdAt": "2025-10-16T09:10:00Z",
-    "updatedAt": "2025-10-16T09:10:00Z"
+    "updatedAt": "2025-11-04T20:33:17.218Z"
   },
   {
     "status": "done",
