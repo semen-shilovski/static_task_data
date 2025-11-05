@@ -1,0 +1,37 @@
+{
+  "id": "R-20251001-20251031",
+  "period": {
+    "type": "range",
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-31"
+  },
+  "createdAt": "2025-11-05T09:57:16.716Z",
+  "ownerId": "anna222",
+  "status": "ready",
+  "source": {
+    "tasksPath": "public/data/tasks.json",
+    "commit": "<commit-sha>",
+    "filters": {
+      "startDate": "2025-10-01",
+      "endDate": "2025-10-31"
+    }
+  },
+  "metrics": {
+    "tasksTotal": 1,
+    "tasksDone": 1,
+    "tasksOverdue": 0,
+    "byStatus": {
+      "done": 1
+    },
+    "byAssignee": [
+      {
+        "key": "2",
+        "label": "2",
+        "total": 1,
+        "done": 1
+      }
+    ],
+    "byTag": []
+  },
+  "topOverdue": []
+}
