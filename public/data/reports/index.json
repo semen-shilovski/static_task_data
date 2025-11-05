@@ -2,6 +2,23 @@
   "schema": "v2",
   "items": [
     {
+      "id": "R-20251001-20251031",
+      "period": {
+        "type": "range",
+        "startDate": "2025-10-01",
+        "endDate": "2025-10-31"
+      },
+      "title": "Отчёт 2025-10-01 — 2025-10-31",
+      "createdAt": "2025-11-05T09:57:16.716Z",
+      "ownerId": "anna222",
+      "status": "ready",
+      "totals": {
+        "tasks": 1,
+        "done": 1,
+        "overdue": 0
+      }
+    },
+    {
       "id": "R-20251110-20251115",
       "period": {
         "type": "range",
