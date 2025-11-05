@@ -1,0 +1,22 @@
+{
+  "schema": "v2",
+  "items": [
+    {
+      "id": "R-2025-11",
+      "period": {
+        "type": "month",
+        "year": 2025,
+        "month": 11
+      },
+      "title": "Отчёт за ноябрь 2025 г.",
+      "createdAt": "2025-11-05T09:44:19.951Z",
+      "ownerId": "anna",
+      "status": "ready",
+      "totals": {
+        "tasks": 0,
+        "done": 0,
+        "overdue": 0
+      }
+    }
+  ]
+}
