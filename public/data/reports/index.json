@@ -9,13 +9,13 @@
         "month": 11
       },
       "title": "Отчёт за ноябрь 2025 г.",
-      "createdAt": "2025-11-05T09:45:50.500Z",
+      "createdAt": "2025-11-05T09:46:09.728Z",
       "ownerId": "anna",
       "status": "ready",
       "totals": {
         "tasks": 1,
-        "done": 0,
-        "overdue": 1
+        "done": 1,
+        "overdue": 0
       }
     }
   ]
