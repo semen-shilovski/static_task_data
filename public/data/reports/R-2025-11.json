@@ -6,20 +6,28 @@
     "month": 11
   },
   "title": "Отчёт за ноябрь 2025 г.",
-  "createdAt": "2025-11-05T09:44:19.951Z",
+  "createdAt": "2025-11-05T09:44:47.697Z",
   "ownerId": "anna",
   "status": "ready",
   "totals": {
-    "tasks": 0,
+    "tasks": 1,
     "done": 0,
-    "overdue": 0
+    "overdue": 1
   },
   "generatedFrom": "tasks.json",
   "metrics": {
-    "tasksTotal": 0,
+    "tasksTotal": 1,
     "tasksDone": 0,
-    "tasksOverdue": 0,
-    "byStatus": {},
-    "byAssignee": []
+    "tasksOverdue": 1,
+    "byStatus": {
+      "todo": 1
+    },
+    "byAssignee": [
+      {
+        "assigneeId": "unassigned",
+        "count": 1,
+        "done": 0
+      }
+    ]
   }
 }
