@@ -100,12 +100,12 @@
     "updatedAt": "2025-11-04T20:33:32.269Z"
   },
   {
-    "status": "todo",
+    "status": "done",
     "title": "test",
     "priority": "low",
     "due": "2025-11-05",
     "id": "1d3a013c-3c71-4514-b1ae-96fb1d39288f",
     "createdAt": "2025-11-05T09:44:42.781Z",
-    "updatedAt": "2025-11-05T09:44:42.781Z"
+    "updatedAt": "2025-11-05T09:46:06.021Z"
   }
 ]
