@@ -2,6 +2,23 @@
   "schema": "v2",
   "items": [
     {
+      "id": "R-20251110-20251115",
+      "period": {
+        "type": "range",
+        "startDate": "2025-11-10",
+        "endDate": "2025-11-15"
+      },
+      "title": "Отчёт 2025-11-10 — 2025-11-15",
+      "createdAt": "2025-11-05T09:53:45.448Z",
+      "ownerId": "фт",
+      "status": "ready",
+      "totals": {
+        "tasks": 0,
+        "done": 0,
+        "overdue": 0
+      }
+    },
+    {
       "id": "R-2025-11",
       "period": {
         "type": "month",
