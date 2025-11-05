@@ -1,0 +1,28 @@
+{
+  "id": "R-20251110-20251115",
+  "period": {
+    "type": "range",
+    "startDate": "2025-11-10",
+    "endDate": "2025-11-15"
+  },
+  "createdAt": "2025-11-05T09:53:45.448Z",
+  "ownerId": "фт",
+  "status": "ready",
+  "source": {
+    "tasksPath": "public/data/tasks.json",
+    "commit": "<commit-sha>",
+    "filters": {
+      "startDate": "2025-11-10",
+      "endDate": "2025-11-15"
+    }
+  },
+  "metrics": {
+    "tasksTotal": 0,
+    "tasksDone": 0,
+    "tasksOverdue": 0,
+    "byStatus": {},
+    "byAssignee": [],
+    "byTag": []
+  },
+  "topOverdue": []
+}
