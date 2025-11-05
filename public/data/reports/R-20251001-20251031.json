@@ -5,30 +5,51 @@
     "startDate": "2025-10-01",
     "endDate": "2025-10-31"
   },
-  "createdAt": "2025-11-05T09:57:16.716Z",
-  "ownerId": "anna222",
+  "createdAt": "2025-11-05T10:02:32.094Z",
+  "ownerId": "igor",
   "status": "ready",
   "source": {
     "tasksPath": "public/data/tasks.json",
     "commit": "<commit-sha>",
     "filters": {
       "startDate": "2025-10-01",
-      "endDate": "2025-10-31"
+      "endDate": "2025-10-31",
+      "dateField": "createdAt"
     }
   },
   "metrics": {
-    "tasksTotal": 1,
-    "tasksDone": 1,
+    "tasksTotal": 8,
+    "tasksDone": 5,
     "tasksOverdue": 0,
     "byStatus": {
-      "done": 1
+      "done": 5,
+      "in_progress": 1,
+      "todo": 2
     },
     "byAssignee": [
       {
         "key": "2",
         "label": "2",
+        "total": 3,
+        "done": 2
+      },
+      {
+        "key": "3",
+        "label": "3",
+        "total": 3,
+        "done": 2
+      },
+      {
+        "key": "4",
+        "label": "4",
         "total": 1,
         "done": 1
+      },
+      {
+        "key": "igor",
+        "label": "igor",
+        "total": 1,
+        "done": 0
       }
     ],
     "byTag": []
