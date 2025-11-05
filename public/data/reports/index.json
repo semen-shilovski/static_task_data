@@ -9,12 +9,12 @@
         "endDate": "2025-10-31"
       },
       "title": "Отчёт 2025-10-01 — 2025-10-31",
-      "createdAt": "2025-11-05T09:57:16.716Z",
-      "ownerId": "anna222",
+      "createdAt": "2025-11-05T10:02:32.094Z",
+      "ownerId": "igor",
       "status": "ready",
       "totals": {
-        "tasks": 1,
-        "done": 1,
+        "tasks": 8,
+        "done": 5,
         "overdue": 0
       }
     },
